@@ -1,0 +1,94 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="683" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-1" value="首页&lt;div&gt;项目数量、合同数量、成果数量、各部门经费、项目节点提醒&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-2" value="组织结构&lt;div&gt;内部组织树、合作单位、各部门成员信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-6" value="申报项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="250" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-8" value="项目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-15" value="归档项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="250" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="150" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-17" value="立项项目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="211.5" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-18" value="项目进度、过程文件、项目历史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-19" value="合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-20" value="成果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227" y="210" width="38" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-21" value="经费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-24" value="&lt;span style=&quot;background-color: initial; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84%26lt%3Bdiv%26gt%3B%E5%86%85%E9%83%A8%E7%BB%84%E7%BB%87%E6%A0%91%E3%80%81%E5%90%88%E4%BD%9C%E5%8D%95%E4%BD%8D%E3%80%81%E5%90%84%E9%83%A8%E9%97%A8%E6%88%90%E5%91%98%E4%BF%A1%E6%81%AF%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2270%22%20y%3D%22180%22%20width%3D%22650%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-25" value="成果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-29" value="专利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-31" value="合同" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="211.5" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-32" value="合同文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91.5" y="320" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-33" value="经费借票记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="268" y="320" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-34" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-36" value="周报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-37" value="资料库&lt;div&gt;上传、下载文件、压缩包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="460" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-39" value="系统管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-40" value="用户管理&lt;div&gt;分配数据权限&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="530" width="145" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-42" value="角色管理&lt;div&gt;页面权限分配&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="530" width="140" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-52" value="软著" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-53" value="论文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
