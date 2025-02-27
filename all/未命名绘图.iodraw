@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1687" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="478" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,12 +49,6 @@
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-25" value="成果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-27" value="专利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="460" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-28" value="论文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="460" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-29" value="软著" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="460" width="40" height="20" as="geometry" />
         </mxCell>
@@ -99,6 +93,12 @@
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-46" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;角色页面权限分配&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="670" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-52" value="软著" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-53" value="软著" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
