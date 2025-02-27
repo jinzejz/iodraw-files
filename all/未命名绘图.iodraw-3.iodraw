@@ -421,6 +421,9 @@
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-155" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="345" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5RjG2n3XaPl4Nk2D-3od-164" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
