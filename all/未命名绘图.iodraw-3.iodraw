@@ -330,14 +330,23 @@
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-125" value="开票日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="260" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5RjG2n3XaPl4Nk2D-3od-132" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="5RjG2n3XaPl4Nk2D-3od-126" target="5RjG2n3XaPl4Nk2D-3od-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-126" value="收款周期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="265" width="60" height="30" as="geometry" />
+          <mxGeometry x="705" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjG2n3XaPl4Nk2D-3od-133" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="5RjG2n3XaPl4Nk2D-3od-127" target="5RjG2n3XaPl4Nk2D-3od-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-127" value="收款金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-131" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.13;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="5RjG2n3XaPl4Nk2D-3od-125" target="5RjG2n3XaPl4Nk2D-3od-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjG2n3XaPl4Nk2D-3od-134" value="收款金额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="195" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
