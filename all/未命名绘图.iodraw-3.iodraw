@@ -10,7 +10,7 @@
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-2" value="团队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="185" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5RjG2n3XaPl4Nk2D-3od-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5RjG2n3XaPl4Nk2D-3od-3" target="5RjG2n3XaPl4Nk2D-3od-35">
+        <mxCell id="5RjG2n3XaPl4Nk2D-3od-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5RjG2n3XaPl4Nk2D-3od-3" target="5RjG2n3XaPl4Nk2D-3od-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-3" value="科研人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -98,6 +98,9 @@
             <mxPoint x="10" y="400" as="sourcePoint" />
             <mxPoint x="60" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5RjG2n3XaPl4Nk2D-3od-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.356;entryY=1.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5RjG2n3XaPl4Nk2D-3od-37" target="5RjG2n3XaPl4Nk2D-3od-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
