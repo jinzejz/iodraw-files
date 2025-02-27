@@ -73,7 +73,7 @@
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-36" value="周报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="770" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-37" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-37" value="资料库&lt;div&gt;用户上传&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="850" width="650" height="60" as="geometry" />
         </mxCell>
       </root>
