@@ -82,11 +82,11 @@
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-39" value="系统管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="955" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-40" value="合同文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="995" width="190" height="35" as="geometry" />
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="995" width="185" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-41" value="经费借票记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="995" width="190" height="35" as="geometry" />
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="995" width="185" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
