@@ -28,7 +28,7 @@
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Jv0ZFxTWlGatiz4mhc0u-10" target="Jv0ZFxTWlGatiz4mhc0u-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-10" value="立项项目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
