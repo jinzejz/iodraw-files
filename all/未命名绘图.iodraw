@@ -70,6 +70,9 @@
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-34" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="770" width="325" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-36" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="770" width="325" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
