@@ -17,7 +17,7 @@
           <mxGeometry x="570" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-5" value="部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="380" y="185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-6" value="合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="280" width="60" height="30" as="geometry" />
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="185" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="185" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
