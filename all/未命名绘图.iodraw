@@ -23,13 +23,13 @@
           <mxGeometry x="240" y="260" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="159" width="290" height="91" as="geometry" />
+          <mxGeometry x="95" y="150" width="290" height="91" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-17" value="立项项目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="160" width="60" height="30" as="geometry" />
+          <mxGeometry x="211.5" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-18" value="项目进度、过程文件、项目历史" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="138" y="190" width="200" height="20" as="geometry" />
+          <mxGeometry x="140" y="180" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-19" value="合同" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="138" y="219.5" width="40" height="20" as="geometry" />
