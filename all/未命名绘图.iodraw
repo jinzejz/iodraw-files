@@ -56,7 +56,7 @@
           <mxGeometry x="330" y="460" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-29" value="软著" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="460" width="40" height="33" as="geometry" />
+          <mxGeometry x="215" y="460" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-31" value="合同" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="350" width="60" height="30" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="287.5" y="661" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-45" value="&lt;div&gt;分配数据权限&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="102.5" y="670" width="152.5" height="50" as="geometry" />
+          <mxGeometry x="70" y="670" width="152.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-46" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;角色页面权限分配&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="670" width="152.5" height="50" as="geometry" />
