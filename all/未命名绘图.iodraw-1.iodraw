@@ -119,6 +119,9 @@
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-228" value="上传、下载文件、压缩包" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1513" y="5162" width="237" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="R_WLRSLHp-pT6NhgRnvO-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_WLRSLHp-pT6NhgRnvO-229" target="R_WLRSLHp-pT6NhgRnvO-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-229" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1329" y="5360" width="125" height="49" as="geometry" />
         </mxCell>
@@ -141,13 +144,6 @@
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-246" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_WLRSLHp-pT6NhgRnvO-227" target="R_WLRSLHp-pT6NhgRnvO-228">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R_WLRSLHp-pT6NhgRnvO-247" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_WLRSLHp-pT6NhgRnvO-229" target="R_WLRSLHp-pT6NhgRnvO-230">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1479" y="5286" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-248" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_WLRSLHp-pT6NhgRnvO-229" target="R_WLRSLHp-pT6NhgRnvO-231">
