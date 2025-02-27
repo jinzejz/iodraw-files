@@ -35,10 +35,10 @@
           <mxGeometry x="510" y="110" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-20" value="成果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="231" width="110" height="30" as="geometry" />
+          <mxGeometry x="640" y="231" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-21" value="经费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="241" width="110" height="30" as="geometry" />
+          <mxGeometry x="550" y="241" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="440" width="650" height="95" as="geometry" />
