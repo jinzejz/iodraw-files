@@ -86,7 +86,7 @@
           <mxGeometry x="75" y="661" width="145" height="79" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="661" width="185" height="125" as="geometry" />
+          <mxGeometry x="250" y="661" width="150" height="79" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-43" value="用户管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="112.5" y="661" width="60" height="30" as="geometry" />
@@ -94,8 +94,8 @@
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-44" value="角色管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="545" y="700" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-45" value="新增用户&lt;div&gt;管理用户&lt;/div&gt;&lt;div&gt;分配数据权限、角色&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="66.25" y="690" width="152.5" height="50" as="geometry" />
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-45" value="&lt;div&gt;分配数据权限、角色&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="71.25" y="680" width="152.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-46" value="&lt;div&gt;新增角色&lt;/div&gt;&lt;div&gt;角色管理&lt;/div&gt;&lt;div&gt;角色页面权限分配&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="507.5" y="740" width="152.5" height="50" as="geometry" />
