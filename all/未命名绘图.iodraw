@@ -76,6 +76,18 @@
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-37" value="资料库&lt;div&gt;上传、下载文件、压缩包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="850" width="650" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="565" width="650" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-39" value="合同" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-40" value="合同文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="620" width="190" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-41" value="经费借票记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="620" width="190" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
