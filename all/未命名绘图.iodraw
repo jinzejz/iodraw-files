@@ -56,10 +56,10 @@
           <mxGeometry x="205" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-32" value="合同文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="380" width="130" height="35" as="geometry" />
+          <mxGeometry x="90" y="380" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-33" value="经费借票记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="380" width="120" height="35" as="geometry" />
+          <mxGeometry x="260" y="380" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-34" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="500" width="160" height="30" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="240" y="500" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-37" value="资料库&lt;div&gt;上传、下载文件、压缩包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="540" width="340" height="40" as="geometry" />
+          <mxGeometry x="70" y="540" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="620" width="340" height="100" as="geometry" />
