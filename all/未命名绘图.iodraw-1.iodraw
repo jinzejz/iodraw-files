@@ -5,16 +5,16 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-206" value="首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1345" y="3998" width="92" height="49" as="geometry" />
+          <mxGeometry x="1362" y="4110" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-207" value="项目数量、合同数量、成果数量、各部门经费、项目节点提醒" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1503" y="3980" width="254" height="84" as="geometry" />
+          <mxGeometry x="1520" y="4092" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-208" value="组织结构" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1329" y="4129" width="124" height="49" as="geometry" />
+          <mxGeometry x="1346" y="4241" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-209" value="内部组织树、合作单位、各部门成员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1504" y="4120" width="253" height="67" as="geometry" />
+          <mxGeometry x="1521" y="4232" width="253" height="67" as="geometry" />
         </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_WLRSLHp-pT6NhgRnvO-210" target="R_WLRSLHp-pT6NhgRnvO-211">
           <mxGeometry relative="1" as="geometry" />
