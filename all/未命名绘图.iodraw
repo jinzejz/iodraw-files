@@ -14,7 +14,7 @@
           <mxGeometry x="70" y="161" width="340" height="299" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-6" value="申报项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="320" width="115" height="49" as="geometry" />
+          <mxGeometry x="90" y="320" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-8" value="项目" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="171" width="60" height="30" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="105" y="271" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-20" value="成果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="271" width="75" height="30" as="geometry" />
+          <mxGeometry x="193" y="271" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-21" value="经费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="431.25" y="200" width="75" height="30" as="geometry" />
+          <mxGeometry x="280" y="271" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="440" width="650" height="95" as="geometry" />
