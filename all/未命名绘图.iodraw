@@ -7,8 +7,11 @@
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-1" value="首页&lt;div&gt;项目数量、合同数量、成果数量、各部门经费、项目节点提醒&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="91" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-2" value="组织结构&lt;div&gt;内部组织树、合作单位、各部门成员信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-3" value="组织结构&lt;div&gt;内部组织树、合作单位、各部门成员信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="440" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
