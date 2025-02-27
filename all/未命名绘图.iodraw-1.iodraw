@@ -16,6 +16,9 @@
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-209" value="内部组织树、合作单位、各部门成员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1505" y="4204" width="253" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="R_WLRSLHp-pT6NhgRnvO-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_WLRSLHp-pT6NhgRnvO-210" target="R_WLRSLHp-pT6NhgRnvO-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-210" value="项目" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1345" y="4370" width="93" height="49" as="geometry" />
         </mxCell>
@@ -90,13 +93,6 @@
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-233" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_WLRSLHp-pT6NhgRnvO-208" target="R_WLRSLHp-pT6NhgRnvO-209">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="R_WLRSLHp-pT6NhgRnvO-235" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_WLRSLHp-pT6NhgRnvO-210" target="R_WLRSLHp-pT6NhgRnvO-212">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1479" y="4444" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-236" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_WLRSLHp-pT6NhgRnvO-210" target="R_WLRSLHp-pT6NhgRnvO-213">
