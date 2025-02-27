@@ -68,13 +68,13 @@
           <mxGeometry x="480" y="495" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-34" value="公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="655" width="320" height="60" as="geometry" />
+          <mxGeometry x="70" y="650" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-36" value="周报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="655" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-37" value="资料库&lt;div&gt;上传、下载文件、压缩包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="735" width="650" height="60" as="geometry" />
+          <mxGeometry x="70" y="715" width="650" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="940" width="650" height="190" as="geometry" />
