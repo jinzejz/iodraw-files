@@ -123,13 +123,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-229" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1329" y="5360" width="125" height="49" as="geometry" />
+          <mxGeometry x="1346" y="5299" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-230" value="用户管理 分配数据权限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1518" y="5261" width="226" height="49" as="geometry" />
+          <mxGeometry x="1535" y="5200" width="226" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-231" value="角色管理 页面权限分配" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1518" y="5360" width="227" height="49" as="geometry" />
+          <mxGeometry x="1535" y="5299" width="227" height="49" as="geometry" />
         </mxCell>
         <mxCell id="R_WLRSLHp-pT6NhgRnvO-232" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R_WLRSLHp-pT6NhgRnvO-206" target="R_WLRSLHp-pT6NhgRnvO-207">
           <mxGeometry relative="1" as="geometry">
