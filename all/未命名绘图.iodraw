@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1434" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,8 +97,8 @@
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-45" value="新增用户&lt;div&gt;管理用户&lt;/div&gt;&lt;div&gt;分配数据权限、角色&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="161.25" y="1050" width="152.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-46" value="新增用户&lt;div&gt;管理用户&lt;/div&gt;&lt;div&gt;分配数据权限、角色&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="171.25" y="1060" width="152.5" height="50" as="geometry" />
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-46" value="&lt;div&gt;新增角色&lt;/div&gt;&lt;div&gt;角色管理&lt;/div&gt;&lt;div&gt;角色页面权限分配&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="1050" width="152.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
