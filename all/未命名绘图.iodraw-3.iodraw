@@ -396,6 +396,14 @@
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-147" value="数据权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="290" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5RjG2n3XaPl4Nk2D-3od-161" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="5RjG2n3XaPl4Nk2D-3od-152" target="5RjG2n3XaPl4Nk2D-3od-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjG2n3XaPl4Nk2D-3od-162" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="5RjG2n3XaPl4Nk2D-3od-161">
+          <mxGeometry x="0.061" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-152" value="周报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="300" width="60" height="30" as="geometry" />
         </mxCell>
@@ -404,6 +412,11 @@
         </mxCell>
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-159" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="5RjG2n3XaPl4Nk2D-3od-155" target="5RjG2n3XaPl4Nk2D-3od-153">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjG2n3XaPl4Nk2D-3od-163" value="m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="5RjG2n3XaPl4Nk2D-3od-159">
+          <mxGeometry x="0.4059" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5RjG2n3XaPl4Nk2D-3od-155" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="345" width="70" height="40" as="geometry" />
