@@ -95,7 +95,10 @@
           <mxGeometry x="545" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jv0ZFxTWlGatiz4mhc0u-45" value="新增用户&lt;div&gt;管理用户&lt;/div&gt;&lt;div&gt;分配数据权限、角色&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="1050" width="152.5" height="50" as="geometry" />
+          <mxGeometry x="161.25" y="1050" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Jv0ZFxTWlGatiz4mhc0u-46" value="新增用户&lt;div&gt;管理用户&lt;/div&gt;&lt;div&gt;分配数据权限、角色&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="171.25" y="1060" width="152.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
